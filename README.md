@@ -1,5 +1,7 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+This project based on what I built [previously](https://github.com/manhcuongdtbk/nextjs-basic-file-based-routing-practice) so I have all the necessary pages to work on.
+
 ## Getting Started
 
 First, run the development server:
